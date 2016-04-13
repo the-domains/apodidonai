@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Give back!]]></title>
         <description><![CDATA[Give back!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/apodidonai/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 00:42:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 01:04:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/apodidonai/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1de14cca-62ac-46c3-92fb-12735a4b5e60.png">]]></description>
+            <link>https://thegrid.ai/apodidonai/justdogood-is-wonderful-movement-in-the-city-of-compton-t/index.html</link>
+            <guid isPermaLink="false">0be5b596-0c21-4927-832a-deee2cd49857</guid>
+            <pubDate>Wed, 13 Apr 2016 01:04:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Apodidonai is greek for the act of  "giving back."  The act of Apodidonai manifests itself in the physical activity giving back to a person, people, community, country, or the world.</p>]]></description>
-            <link>undefinedapodidonai-is-greek-for-the-act-of-giving-back-the-act/index.html</link>
+            <link>https://thegrid.ai/apodidonai/apodidonai-is-greek-for-the-act-of-giving-back-the-act/index.html</link>
             <guid isPermaLink="false">1198b84d-2bb9-48c6-939e-2e666ace6b14</guid>
             <pubDate>Wed, 13 Apr 2016 00:42:29 GMT</pubDate>
         </item>
